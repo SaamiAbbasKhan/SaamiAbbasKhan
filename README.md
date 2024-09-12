@@ -5,6 +5,7 @@
 - 📫 How to reach me: Feel free to message me on my email (khansaamiabbas@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Can't think of one right now, but I'll update this later! 😅 In the meantime, feel free to ignore!
+- 🥲 Used to do python but ... (https://github.com/Kingsam70?tab=repositories)
 
 
 <!---
