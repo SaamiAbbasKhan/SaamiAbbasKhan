@@ -1,10 +1,33 @@
- 👋 Hi, I’m @SaamiAbbasKhan
- 👀 I’m interested in almost everything 😑
- 💞️ I’m open to colloberate.
- 📫 How to reach me: Feel free to message me on my email (khansaamiabbas@gmail.com)
- 😄 Pronouns: he/him
- ⚡ Fun fact: Can't think of one right now, but I'll update this later! 😅 In the meantime, feel free to ignore!
- ✔️Another Account: https://github.com/Kingsam70?tab=repositories)
+## 👋 Hi, I'm Saami Abbas Khan!
+
+I'm a developer with a broad range of interests and a passion for learning.
+
+### 👀 I'm interested in:
+
+*   Software Development (especially...)
+*   Data Science
+*   Backend Development (Python, REST APIs)
+*   Cloud Computing (AWS, Azure)
+*   Open Source Projects
+
+### 📫 How to reach me:
+
+Feel free to connect!  The best way to reach me is via email: [khansaamiabbas@gmail.com](mailto:khansaamiabbas@gmail.com)
+
+### 😄 Pronouns:
+
+He/him
+
+### 💡 Fun Fact:
+
+I was a medical student before making the switch to engineering. A different kind of coding, but just as fascinating!
+
+### 🔗 Another Account:
+
+[Kingsam70](https://github.com/Kingsam70?tab=repositories)
+
+---
+
 
 
 <!---
