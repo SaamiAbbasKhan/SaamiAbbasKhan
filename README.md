@@ -5,7 +5,7 @@ I'm a developer with a broad range of interests and a passion for learning.
 ### 👀 I'm interested in:
 
 *   Software Development (especially...)
-*   Data Science
+*   Data Science / AI
 *   Backend Development (Python, REST APIs)
 *   Cloud Computing (AWS, Azure)
 *   Open Source Projects
