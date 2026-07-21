@@ -60,11 +60,7 @@ Software Developer • SQL Enthusiast • AI Explorer
 # 🚀 Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react"/>
-</p>
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,pandas,numpy,sklearn,tkinter" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,pandas,react,numpy,sklearn,tkinter" />
 </p>
 
 ---
