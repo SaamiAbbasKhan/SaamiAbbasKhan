@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Saami Abbas Khan</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1200&pause=500&color=FACC15&center=true&vCenter=true&width=700&lines=Hello!;سلام!;नमस्ते!;Bonjour!;Hola!;Ciao!;こんにちは!;안녕하세요!;你好!;Olá!;Привет!;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ!"/>
+</p>
+
+
+
+<h1 align="center">I'm Saami Abbas Khan</h1> 
 
 <h3 align="center">
 Software Developer • SQL Enthusiast • AI Explorer
 </h3>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Python+Developer;SQL+Enthusiast;Backend+Developer;AI+%26+Data+Science+Learner;Always+Learning+Something+New!" />
